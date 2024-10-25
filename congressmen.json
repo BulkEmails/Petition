@@ -379,20 +379,21 @@
         "email": "maxine.waters@mail.house.gov"
       },
       {
-        "name": "Bonnie Watson Coleman",
-        "constituency": "NJ-12",
-        "religion": "Christian",
-        "position": "New Jersey's 12th congressional district",
-        "email": "bonnieforcongress@gmail.com"
-      },
-      
-      {
         "name": "Susan Wild",
         "constituency": "PA-07",
         "religion": "Jewish",
         "position": "Pennsylvania's 7th congressional district",
         "email": "wild.press@mail.house.gov"
+      },
+      {
+        "name": "Bonnie Watson Coleman",
+        "constituency": "NJ-12",
+        "religion": "Christian",
+        "position": "New Jersey's 12th congressional district",
+        "email": "bonnieforcongress@gmail.com"
       }
+
+      
     ]
   }
   
