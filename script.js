@@ -37,15 +37,18 @@ Regards`;
             });
         }
 
-        // Divide congressmen into 6 groups of 10 each
-        const groups = Array.from({ length: 6 }, (_, i) => congressmen.slice(i * 10, i * 10 + 10));
-
+        // Divide congressmen into 4 groups: 2 with 15 congressmen and 2 with 16 congressmen
+        const groups = [
+            congressmen.slice(0, 15),
+            congressmen.slice(15, 31),
+            congressmen.slice(31, 47),
+            congressmen.slice(47, 62)
+        ];
         // Set up each button with a corresponding group
         setupEmailButton(groups[0], 'sendEmailButton1');
         setupEmailButton(groups[1], 'sendEmailButton2');
         setupEmailButton(groups[2], 'sendEmailButton3');
         setupEmailButton(groups[3], 'sendEmailButton4');
-        setupEmailButton(groups[4], 'sendEmailButton5');
-        setupEmailButton(groups[5], 'sendEmailButton6');
+
     })
     .catch(error => console.error('Error loading congressman data:', error));
