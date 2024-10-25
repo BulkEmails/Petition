@@ -78,13 +78,6 @@
         "email": "Info@JoeCourtney.com"
       },
       {
-        "name": "Madeleine Dean",
-        "constituency": "PA-04",
-        "religion": "Roman Catholic",
-        "position": "Pennsylvania's 4th congressional district",
-        "email": "madeline.dean@gmail.com"
-      },
-      {
         "name": "Rosa DeLauro",
         "constituency": "CT-03",
         "religion": "Roman Catholic",
@@ -225,13 +218,6 @@
         "email": "info@larsonforcongress.org"
       },
       {
-        "name": "Barbara Lee",
-        "constituency": "CA-12",
-        "religion": "Christian",
-        "position": "California's 12th congressional district",
-        "email": "barbara.lee@mail.house.gov"
-      },
-      {
         "name": "Ted Lieu",
         "constituency": "CA-36",
         "religion": "Presbyterian",
@@ -292,7 +278,7 @@
         "constituency": "MD-08",
         "religion": "Jewish",
         "position": "Maryland's 8th congressional district",
-        "email": "jamie.raskin@gmail.com"
+        "email": "Jamie@jamieraskin.com"
       },
       {
         "name": "Andrea Salinas",
