@@ -42,7 +42,7 @@ Regards`;
             congressmen.slice(0, 15),
             congressmen.slice(15, 31),
             congressmen.slice(31, 47),
-            congressmen.slice(47, 62)
+            congressmen.slice(47, 58)
         ];
         // Set up each button with a corresponding group
         setupEmailButton(groups[0], 'sendEmailButton1');

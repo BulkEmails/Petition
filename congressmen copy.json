@@ -28,6 +28,13 @@
         "position": "Virginia's 8th congressional district",
         "email": "don@friendsofdonbeyer.com"
       },
+      // {
+      //   "name": "Suzanne Bonamici",
+      //   "constituency": "OR-01",
+      //   "religion": "Unitarian Universalist",
+      //   "position": "Oregon's 1st congressional district",
+      //   "email": "bonamici.house.gov"
+      // },
       {
         "name": "Jamaal Bowman",
         "constituency": "NY-16",
@@ -70,6 +77,13 @@
         "position": "New York's 9th congressional district",
         "email": "clarkeforcongress@gmail.com"
       },
+      // {
+      //   "name": "Steve Cohen",
+      //   "constituency": "TN-09",
+      //   "religion": "Jewish",
+      //   "position": "Tennessee's 9th congressional district",
+      //   "email": "steve.cohen@elections.facebook.com"
+      // },
       {
         "name": "Joe Courtney",
         "constituency": "CT-02",
@@ -168,6 +182,13 @@
         "position": "Connecticut's 5th congressional district",
         "email": "info@jahanahayes.com"
       },
+      // {
+      //   "name": "Jared Huffman",
+      //   "constituency": "CA-02",
+      //   "religion": "Atheist",
+      //   "position": "California's 2nd congressional district",
+      //   "email": "jared.huffman@mail.house.gov"
+      // },
       {
         "name": "Jonathan Jackson",
         "constituency": "IL-01",
@@ -287,6 +308,13 @@
         "position": "Illinois's 5th congressional district",
         "email": "quigleyforcongress@gmail.com"
       },
+      // {
+      //   "name": "Delia C. Ramirez",
+      //   "constituency": "IL-03",
+      //   "religion": "Christian",
+      //   "position": "Illinois's 3rd congressional district",
+      //   "email": "info@repdeliaramirez.com"
+      // },
       {
         "name": "Jaime Raskin",
         "constituency": "MD-08",
